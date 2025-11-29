@@ -1,0 +1,31 @@
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto de trofeus.csproj.AssemblyReference.cache
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form1.resources
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form2.resources
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form3.resources
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form4.resources
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form5.resources
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form7.resources
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto_de_trofeus.Properties.Resources.resources
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto de trofeus.csproj.GenerateResource.cache
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto de trofeus.csproj.CoreCompileInputs.cache
+D:\Anderson\Modelagem de Software\projeto de trofeus\bin\Debug\projeto de trofeus.exe.config
+D:\Anderson\Modelagem de Software\projeto de trofeus\bin\Debug\projeto de trofeus.exe
+D:\Anderson\Modelagem de Software\projeto de trofeus\bin\Debug\projeto de trofeus.pdb
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto de trofeus.exe
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto de trofeus.pdb
+D:\Anderson\Modelagem de Software\projeto de trofeus\obj\Debug\projeto de trofeus.exe.config
+T:\Repositorio\Programas recentes\projeto de trofeus\bin\Debug\projeto de trofeus.exe.config
+T:\Repositorio\Programas recentes\projeto de trofeus\bin\Debug\projeto de trofeus.exe
+T:\Repositorio\Programas recentes\projeto de trofeus\bin\Debug\projeto de trofeus.pdb
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto de trofeus.csproj.AssemblyReference.cache
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form3.resources
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form2.resources
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form4.resources
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form5.resources
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form7.resources
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto_de_trofeus.Form1.resources
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto_de_trofeus.Properties.Resources.resources
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto de trofeus.csproj.GenerateResource.cache
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto de trofeus.csproj.CoreCompileInputs.cache
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto de trofeus.exe
+T:\Repositorio\Programas recentes\projeto de trofeus\obj\Debug\projeto de trofeus.pdb
